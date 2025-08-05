@@ -5,6 +5,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/p75/',
   build: {
-    outDir: 'docs'
+    outDir: 'dist'
   }
 })
